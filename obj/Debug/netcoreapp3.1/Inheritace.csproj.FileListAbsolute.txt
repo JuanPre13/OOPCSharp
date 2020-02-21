@@ -1,0 +1,11 @@
+C:\Users\Profesor\Documents\OOPC#\Inheritace\bin\Debug\netcoreapp3.1\Inheritace.exe
+C:\Users\Profesor\Documents\OOPC#\Inheritace\bin\Debug\netcoreapp3.1\Inheritace.deps.json
+C:\Users\Profesor\Documents\OOPC#\Inheritace\bin\Debug\netcoreapp3.1\Inheritace.runtimeconfig.json
+C:\Users\Profesor\Documents\OOPC#\Inheritace\bin\Debug\netcoreapp3.1\Inheritace.runtimeconfig.dev.json
+C:\Users\Profesor\Documents\OOPC#\Inheritace\bin\Debug\netcoreapp3.1\Inheritace.dll
+C:\Users\Profesor\Documents\OOPC#\Inheritace\bin\Debug\netcoreapp3.1\Inheritace.pdb
+C:\Users\Profesor\Documents\OOPC#\Inheritace\obj\Debug\netcoreapp3.1\Inheritace.csprojAssemblyReference.cache
+C:\Users\Profesor\Documents\OOPC#\Inheritace\obj\Debug\netcoreapp3.1\Inheritace.AssemblyInfoInputs.cache
+C:\Users\Profesor\Documents\OOPC#\Inheritace\obj\Debug\netcoreapp3.1\Inheritace.AssemblyInfo.cs
+C:\Users\Profesor\Documents\OOPC#\Inheritace\obj\Debug\netcoreapp3.1\Inheritace.dll
+C:\Users\Profesor\Documents\OOPC#\Inheritace\obj\Debug\netcoreapp3.1\Inheritace.pdb
